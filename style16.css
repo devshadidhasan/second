@@ -1,0 +1,59 @@
+.potaka{
+height: 100px;
+width: 250px;
+background-color: green;
+text-align: center;
+padding: 20px;
+box-shadow: 5px 10px 6px;
+}
+.red{
+background-color: rgb(212, 25, 25);
+height: 100px;
+width: 100px;
+border-radius: 50%;
+display: inline-block;
+}
+.andda{
+height: 100px;
+width: 200px;
+background-color: rgba(187, 51, 9, 0.836);
+border: 5px solid red;
+border-radius: 50%;
+text-align: center;
+padding: 20px;
+text-shadow: 5px 6px 5px ;
+margin: 30px 10px 4px;
+m
+}
+.kusum{
+background-color: coral;
+height: 100px;
+width: 100px;
+border-radius: 50%;
+display: inline-block;
+
+}
+h2{
+text-shadow: 2px 5px 1px red;
+
+}
+.dim{
+    height: 100px;
+    width: 200px;
+    background-color: rgba(228, 215, 211, 0.856);
+    border: 5px solid rgb(245, 238, 238);
+    border-radius: 50%;
+    text-align: center;
+    padding: 20px;
+    text-shadow: 5px 6px 5px ;
+    margin: 30px 10px 4px;
+    m
+    }
+    .cusum{
+    background-color: coral;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    display: inline-block;
+    
+    }
